@@ -6,7 +6,7 @@ def camisetas_suficientes(premiados, tamanhos, pequenas, medias):
 
 
 print("Example:")
-print(soma(3,2))
+print(camisetas_suficientes(2, [1, 2], 1, 2))
 
 # As funções assert são utilizadas para verificar se o resultado da função chamada é o esperado
 # Teste 1
