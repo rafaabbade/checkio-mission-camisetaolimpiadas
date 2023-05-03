@@ -38,7 +38,7 @@ api.add_listener(
     CheckiOReferee(
         tests=TESTS,
         function_name={
-            "python": "soma",
+            "python": "camisetas_suficientes",
             "js": "countConsecutiveSummers"
         },
         cover_code={
